@@ -1,0 +1,3 @@
+Be sure to create a 'cache' and 'compile' directories in the forum root directory. They need to be readable and writable by your webserver.
+
+You will need to modify 'src/config.php' with your database username and password.
